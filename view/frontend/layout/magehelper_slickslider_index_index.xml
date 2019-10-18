@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageHelper Use Slick slider in Magento 2
+ *
+ * @package      MageHelper_SlickSlider
+ * @author       Kishan Savaliya <kishansavaliyakb@gmail.com>
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">       
+    <referenceContainer name="content">
+        <block
+        	template="MageHelper_SlickSlider::slick-slider.phtml"
+        	class="Magento\Framework\View\Element\Template"
+        	name="magento-2-slick-slider-demo"/>
+    </referenceContainer>
+</page>

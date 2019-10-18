@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageHelper Use Slick slider in Magento 2
+ *
+ * @package      MageHelper_SlickSlider
+ * @author       Kishan Savaliya <kishansavaliyakb@gmail.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+	<module name="MageHelper_SlickSlider" setup_version="1.0.0" />
+</config>
